@@ -1,8 +1,8 @@
 # Introduction
 
-This is a example project to include system scope jars in the build.
+This is an example project to include system scope jars in the build.
 
-In this example, I have the third-party jar placed in the folder called "external". This folder is seen under project base directory.
+In this example, I have a third-party jar placed in the folder called "external". This folder is seen under project base directory.
 
 Now, when you do build with the command "mvn clean install"; the third party jar will be included in the final jar file. 
 
